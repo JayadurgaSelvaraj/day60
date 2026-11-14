@@ -1,0 +1,203 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Vida VX2",
+            "category": "Commuter",
+            "price" : "₹44,990 – ₹1,31,000",
+            "brand":"Vida",
+            "description": "Affordable electric scooter designed for everyday urban travel.",
+            "image":"/images/Vida VX2.jpg"
+
+        },
+        {
+            "id": 2,
+            "name": "Ola S1 Z",
+            "category": "Commuter",
+            "price" : "₹79,990 – ₹99,999",
+            "brand":"Ola Electric",
+            "description": "Compact electric scooter designed for convenient city commuting.",
+            "image":"/images/Ola S1 Z.jpg"
+        },
+        {
+            
+            "id": 3,
+            "name": "Bajaj Chetak",
+            "category": " Premium Commuter",
+            "price" : "₹89,500 – ₹1,39,000",
+            "brand":"Bajaj",
+            "description": "Stylish electric scooter featuring a classic design and modern technology.",
+            "image":"/images/Bajaj Chetak.jpg"
+        },
+        {
+            
+            "id": 4,
+            "name": "Ola S1 X",
+            "category": "Commuter",
+            "price" : "₹89,999 – ₹1,20,000",
+            "brand":"Ola Electric",
+            "description": "Practical electric scooter designed for daily travel and affordability.",
+            "image":"/images/Ola S1 X.jpg"
+        },
+        {
+            
+            "id": 5,
+            "name": "Honda QC1",
+            "category": "City Commuter",
+            "price" : "₹90,022",
+            "brand":"Honda",
+            "description": "Compact electric scooter designed for short-distance urban mobility.",
+            "image":"/images/Honda QC1.jpg"
+        },
+        {
+            
+            "id": 6,
+            "name": "Ampere Magnus Neo",
+            "category": "Family Commuter",
+            "price" : "₹90,999",
+            "brand":"Ampere",
+            "description": "Comfortable electric scooter suitable for everyday family transportation.",
+            "image":"/images/Ampere Magnus Neo.jpg"
+        },
+        {
+            
+            "id": 7,
+            "name": "TVS iQube",
+            "category": "Family Commuter",
+            "price" : "₹95,124 – ₹1,47,000",
+            "brand":"TVS",
+            "description": "Modern electric scooter combining practical features and comfortable riding.",
+            "image":"/images/TVS iQube.jpg"
+        },
+        {
+            
+            "id": 8,
+            "name": "TVS Orbiter",
+            "category": "City Commuter",
+            "price" : "₹95,250 – ₹1,18,000",
+            "brand":"TVS",
+            "description": "Contemporary electric scooter designed for convenient everyday mobility.",
+            "image":"/images/TVS Orbiter.jpg"
+        },
+        {
+            
+            "id": 9,
+            "name": "Ather Konarc",
+            "category": "Smart Electric",
+            "price" : "₹99,999 – ₹1,45,000",
+            "brand":"Ather",
+            "description": "Technology-focused electric scooter with a modern connected riding experience.",
+            "image":"/images/Ather Konarc.png"
+        },
+        {
+            
+            "id": 10,
+            "name": "Honda Activa e",
+            "category": "Family Commuter",
+            "price" : "₹1,18,000 – ₹1,53,000",
+            "brand":"Honda",
+            "description": "Electric version of the familiar Activa-style urban scooter experience.",
+            "image":"/images/Honda Activa e.jpg"
+        },
+        {
+            
+            "id": 11,
+            "name": "Ather Rizta",
+            "category": "Family Electric",
+            "price" : "₹1,21,000 – ₹1,58,000",
+            "brand":"Ather",
+            "description": "Family-oriented electric scooter with a spacious and practical design.",
+            "image":"/images/Ather Rizta.jpg"
+        },
+        {
+            
+            "id": 12,
+            "name": "Ola S1 Pro",
+            "category": "Performance",
+            "price" : "₹1,30,000 – ₹1,50,000",
+            "brand":"Ola Electric",
+            "description": "Performance-oriented electric scooter with a sporty design and smart features.",
+            "image":"/images/Ola S1 Pro.jpg"
+        },
+        {
+            
+            "id": 13,
+            "name": "Ampere Nexus",
+            "category": "Family Electric",
+            "price" : "₹1,30,000 ",
+            "brand":"Ampere",
+            "description": "Modern family scooter designed for comfortable daily transportation.",
+            "image":"/images/Ampere Nexus.jpg"
+        },
+        {
+            
+            "id": 14,
+            "name": "Ather 450S",
+            "category": "Performance",
+            "price" : "₹1,36,000 – ₹1,67,000",
+            "brand":"Ather",
+            "description": "Sporty electric scooter offering a technology-oriented riding experience.",
+            "image":"/images/Ather 450S.jpg"
+        },
+        {
+            
+            "id": 15,
+            "name": "River Indie",
+            "category": "Utility Electric",
+            "price" : "₹1,46,000",
+            "brand":"River",
+            "description": "Utility-focused electric scooter featuring practical storage and a distinctive design.",
+            "image":"/images/River Indie.jpg"
+        },
+        {
+            
+            "id": 16,
+            "name": "Ather 450X",
+            "category": "Performance",
+            "price" : "₹1,49,000 - ₹1,87,000",
+            "brand":"Ather",
+            "description": "Premium sporty electric scooter with connected technology and performance features.",
+            "image":"/images/Ather 450X.jpg"
+        },
+        {
+            
+            "id": 17,
+            "name": "Simple One",
+            "category": "Long Range",
+            "price" : "₹1,60,000 – ₹1,95,000",
+            "brand":"Simple Energy",
+            "description": "Electric scooter positioned for customers looking for extended riding range.",
+            "image":"/images/Simple One.jpg"
+        },
+        {
+            
+            "id": 18,
+            "name": "Suzuki e-Access",
+            "category": "Premium Commuter",
+            "price" : "₹1,88,000",
+            "brand":"Suzuki",
+            "description": "Electric scooter designed for practical everyday urban transportation.",
+            "image":"/images/Suzuki e-Access.jpg"
+        },
+        {
+            
+            "id": 19,
+            "name": "Yamaha EC-06",
+            "category": "Premium Electric",
+            "price" : "₹1,68,000",
+            "brand":"Yamaha",
+            "description": "Modern electric scooter with a distinctive styling and urban mobility focus.",
+            "image":"/images/Yamaha EC-06.jpg"
+        },
+        {
+            
+            "id": 20,
+            "name": "TVS X",
+            "category": "Luxury Performance",
+            "price" : "₹2,66,000",
+            "brand":"TVS",
+            "description": "Premium electric scooter with futuristic styling and advanced technology.",
+            "image":"/images/TVS X.jpg"
+        }
+    ]
+}
